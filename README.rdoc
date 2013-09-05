@@ -1,3 +1,3 @@
 === Products/Reviews Application
 
-Ruby on Rails application used to illustrate various features of the Ruby/Rails language across different talks.
+Ruby on Rails application used to illustrate various features of the Ruby/Rails language/framework across different talks.
